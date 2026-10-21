@@ -1,6 +1,5 @@
 
 Hello from branch-three
-<<<<<<< HEAD
 I am work with sarale
 
 
